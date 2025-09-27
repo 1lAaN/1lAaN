@@ -69,6 +69,12 @@
   </a>
 </div>
 
+<div align=center>
+<a href="https://ko-fi.com/M4M31LWT4G" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
+  </a>
+</div>
+
 ###
 
 <h2 align="center">Stat Github:</h2>
@@ -90,11 +96,6 @@
 
 ###
 
-<div align=center>
-<a href="https://ko-fi.com/M4M31LWT4G" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
-  </a>
-</div>
   
 <code>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
