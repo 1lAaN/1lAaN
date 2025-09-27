@@ -88,9 +88,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/1lAaN/1lAaN/output/pacman-contribution-graph.svg">
 </picture>
 
-<a href="[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M31LWT4G)">
-
 ###
+
+<a href="[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M31LWT4G)">
 
 <code>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
