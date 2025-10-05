@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="108" src="https://media.discordapp.net/attachments/360480566266691615/1416884110114291774/normal_blanc.png?ex=68c877a8&is=68c72628&hm=a0842f2fea9596923031a5f75fe4b323f3641f5335afb79f1555afe288a767be&=&format=webp&quality=lossless&width=1460&height=1596"  />
+  <img height="108" src="https://ibb.co/twM4KsgR"  />
 </div>
 
 ###
